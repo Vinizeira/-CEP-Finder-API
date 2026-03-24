@@ -185,7 +185,7 @@ File updated!
 * Java
 * Gson
 * REST API (ViaCEP API)
-* IDE: IntelliJ IDEA / Eclipse / VS Code
+* IDE: IntelliJ IDEA
 
 ---
 
